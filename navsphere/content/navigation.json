@@ -222,7 +222,7 @@
           "title": "微信文件传输助手网页版",
           "href": "https://szfilehelper.weixin.qq.com",
           "description": "微信文件传输助手网页版",
-          "icon": "/assets/favicon_1754209006635.ico",
+          "icon": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
           "enabled": true
         }
       ],
