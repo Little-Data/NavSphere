@@ -12,7 +12,7 @@
           "title": "Vercel",
           "href": "https://vercel.com",
           "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/favicon_1754642249434.png",
+          "icon": "https://favicon.im/vercel.com",
           "enabled": true
         },
         {
