@@ -146,7 +146,7 @@
               "title": "Lucide",
               "href": "https://lucide.dev/",
               "description": "Beautiful & consistent icon toolkit made by the community.",
-              "icon": "/assets/favicon_1754208504985.ico",
+              "icon": "https://lucide.dev/favicon.ico",
               "enabled": true
             },
             {
