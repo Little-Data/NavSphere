@@ -154,7 +154,7 @@
               "title": "Favicon.im",
               "href": "https://favicon.im",
               "description": "即时获取和下载任何网站的图标。",
-              "icon": "/assets/favicon_1754208721066.png",
+              "icon": "https://favicon.im/favicon.im?larger=true",
               "enabled": true
             }
           ]
