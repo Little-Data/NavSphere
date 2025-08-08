@@ -206,7 +206,7 @@
           "title": "BiliPlus",
           "href": "https://www.biliplus.com",
           "description": "哔哩哔哩投稿视频数据。",
-          "icon": "/assets/favicon_1754208845146.ico",
+          "icon": "https://www.biliplus.com/favicon.ico",
           "enabled": true
         },
         {
