@@ -8,7 +8,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_ID = "Ov23liLi55GmoDSV5JGa"
 GITHUB_OWNER = "Little-Data"
-GITHUB_REPO = "NavSphereData"
+GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://dh.little-data.eu.org/api/auth"
 NEXT_PUBLIC_API_URL="https://dh.little-data.eu.org"
