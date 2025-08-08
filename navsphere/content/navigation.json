@@ -214,7 +214,7 @@
           "title": "速方云",
           "href": "https://suufun.com",
           "description": "速方云，提供全球云的高速中转服务。",
-          "icon": "/assets/favicon_1754208950234.ico",
+          "icon": "https://suufun.com/favicon.ico",
           "enabled": true
         },
         {
