@@ -52,7 +52,7 @@
           "title": "Flash Player debug版下载",
           "href": "https://www.flash.cn/support/debug-downloads",
           "description": "Flash Player 独立版下载",
-          "icon": "/assets/favicon_1754209142171.ico",
+          "icon": "https://favicon.im/flash.cn?larger=true",
           "enabled": true
         },
         {
