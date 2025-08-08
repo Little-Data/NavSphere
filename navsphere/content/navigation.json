@@ -102,7 +102,7 @@
               "title": "Kimi",
               "href": "https://www.kimi.com",
               "description": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧！",
-              "icon": "/assets/favicon_1754208095611.ico",
+              "icon": "https://favicon.im/kimi.com?larger=true",
               "enabled": true
             }
           ]
