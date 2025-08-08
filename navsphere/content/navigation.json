@@ -187,7 +187,7 @@
               "title": "Excalidraw",
               "href": "https://excalidraw.com",
               "description": "Excalidraw是免费的在线协作画图工具。 手写风格的草图非常好看。",
-              "icon": "/assets/favicon_1754208639202.png",
+              "icon": "https://favicon.im/excalidraw.com?larger=true",
               "enabled": true
             }
           ]
