@@ -28,7 +28,7 @@
           "title": "Netlify",
           "href": "https://www.netlify.com",
           "description": "部署任何现代前端堆栈，从营销网站到 AI 应用程序。加入数百万开发人员和团队的行列，在 Netlify 上更快地交付。 ",
-          "icon": "/assets/favicon_1754207805303.ico",
+          "icon": "https://favicon.im/netlify.com",
           "enabled": true
         },
         {
